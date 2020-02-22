@@ -6,3 +6,4 @@ ANIMATION: There are numerous circles moving across the screen toward the zombie
 
 Code example: zombie.js
 Sound file: yellSound.wav
+Image: zombieGame.jpg
