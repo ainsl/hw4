@@ -6,3 +6,4 @@ Animation: The character is moving left and right across the screen at varying s
 
 Code example: cameragame.js
 Sound files:cameraSound.m4a
+Image: cameraGame
